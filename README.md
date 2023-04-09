@@ -12,4 +12,12 @@ Task here to take care of, is to get the image and if image isn't available then
 
 Here is the full code of the GUI app in "news_gui.py" file.
 
+![image](https://user-images.githubusercontent.com/70787869/230754327-50430c09-861e-4412-b79f-0524b892e5f6.png)
+
+![image](https://user-images.githubusercontent.com/70787869/230754335-bfc189fc-8f14-45d7-972c-0af8ab19c06f.png)
+
+![image](https://user-images.githubusercontent.com/70787869/230754366-8a58bf18-e5da-4703-af5b-07e3e9777824.png)
+
+
+
 Enjoy!!!
